@@ -29,6 +29,7 @@ transformar la gestión tradicional de alimentos y productos de limpieza en el h
   - Sugerir recetas personalizadas basadas en los ingredientes disponibles, preferencias del usuario y necesidades nutricionales.
   - Generar listas de compras automáticas.
   - Predecir el consumo y sugerir reposiciones antes de que falten productos esenciales.
+    
 **Beneficios esperados:**
   - Optimización del consumo en el hogar.
   - Reducción del desperdicio de alimentos.
